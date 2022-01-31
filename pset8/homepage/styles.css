@@ -1,0 +1,65 @@
+body{
+    background-color: hsla(89, 43%, 51%, 0.3);
+}
+h1 {
+    font-family: 'Times New Roman, serif';
+    font-size: 48px;
+    font-weight:bold;
+    color:maroon;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+h3 {
+    font-family:'Helvetica Narrow, sans-serif' ;
+    font-size: 40px;
+    text-align:left;
+    color:darkblue;
+}
+
+h4 {
+    font-family: 'Helvetica Narrow, sans-serif';
+    font-size: 40px;
+    padding:2rem 1rem;
+    text-align:left;
+    color:darkblue;
+
+
+}
+
+ul {
+    font-size: 30px;
+    font-family:serif;
+}
+
+table {
+     font-size: 30px;
+     text-align:center;
+
+}
+th, td {
+        width:150px;
+        text-align:center;
+        border:1px solid black;
+        padding:4px
+}
+
+tr {
+    font-family: 'Helvetica Narrow, sans-serif';
+}
+
+h2 {
+    font-family: 'Helvetica Narrow, sans-serif';
+    font-size: 50px;
+    text-align:center;
+}
+
+p {
+    font-size: 45px;
+    font-family: 'Helvetica Narrow, sans-serif';
+    text-align:left;
+
+}
+
+
+
