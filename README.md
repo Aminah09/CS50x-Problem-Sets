@@ -3,4 +3,6 @@
 
 ## Week 1 C
 
+## Week 2 ARRAYS
+
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
