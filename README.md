@@ -7,6 +7,6 @@
 
 ## Week 2 ARRAYS
 
-## Week 3 Algorithms
+## Week 3 ALGORITHMS
 
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
