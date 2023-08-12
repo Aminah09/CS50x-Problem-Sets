@@ -9,4 +9,6 @@
 
 ## Week 3 ALGORITHMS
 
+## Week 4 Memory
+
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
