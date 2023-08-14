@@ -11,4 +11,6 @@
 
 ## Week 4 MEMORY
 
+## Week 5 Data structures
+
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
