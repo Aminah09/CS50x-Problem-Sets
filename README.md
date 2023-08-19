@@ -13,6 +13,6 @@
 
 ## Week 5 DATA STRUCTURES
 
-## Week 6 Python
+## Week 6 PYTHON
 
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
