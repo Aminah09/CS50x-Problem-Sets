@@ -15,6 +15,6 @@
 
 ## Week 6 PYTHON
 
-## Week 7 sql
+## Week 7 SQL
 
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
