@@ -17,6 +17,6 @@
 
 ## Week 7 SQL
 
-## HTML, CSS, JavaScript
+## Week 8 HTML, CSS, JavaScript
 
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
