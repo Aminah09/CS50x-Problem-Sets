@@ -21,6 +21,6 @@
 
 ## Week 9 FLASK
 
-## Week 10 ETh
+## Week 10 ETH
 
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
