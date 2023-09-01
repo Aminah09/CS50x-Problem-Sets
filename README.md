@@ -21,6 +21,6 @@
 
 ## Week 9 FLASK
 
-## Week 10 ETHIC
+## Week 10 ETHICS
 
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
