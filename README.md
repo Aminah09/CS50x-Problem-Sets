@@ -21,6 +21,6 @@
 
 ## Week 9 FLASK
 
-## Week 10 ETHi
+## Week 10 ETHI
 
 *Use as a reference purpose only. Keep in mind the policy of Academic Honesty*
